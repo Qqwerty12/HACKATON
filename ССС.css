@@ -1,4 +1,4 @@
-﻿@import url('https://fonts.googleapis.com/css?family=Roboto|Suez+One');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Suez+One');
 
 * {
   margin: 0;
@@ -376,6 +376,11 @@ header.fixed #logo {
   float: left;
   width: 100%;
   max-width: 500px;
+}
+
+#overview .vid {
+ margin-top: 50px;
+ border: 2px solid black;
 }
 
 #overview span {
